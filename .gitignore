@@ -1,0 +1,48 @@
+# Assembly source files
+*.obj
+*.lst
+*.map
+*.pdb
+*.exp
+*.lib
+*.exe
+
+# ml64 output
+*.cod
+*.ilk
+
+# Visual Studio 2022
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.cache
+*.log
+*.VC.db
+*.VC.opendb
+
+# Build folders
+x64/
+Debug/
+Release/
+ipch/
+out/
+bin/
+obj/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+*.tlog
+*.idb
+
+# Auto-generated files
+*.pch
+*.res
+*.aps
+
+# Others
+Thumbs.db
+Desktop.ini
